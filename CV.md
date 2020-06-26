@@ -55,23 +55,23 @@ Highly accomplished engineering professional with 10+ years of experience in des
 ## Professional experience:
 
 ##### 06.2019 - present
-###### STC Ltd.
-    Saint Petersburg, Russia
-    DevOps / Infrastructure engineer
+##### STC Ltd.
+  Saint Petersburg, Russia
+  DevOps / Infrastructure engineer
 
 ##### 11.2014 - 05.2019
-###### The General Radio Frequency Management Centre
-    Khabarovsk, Russia
-    Network Engineer, IT Manager
+##### The General Radio Frequency Management Centre
+  Khabarovsk, Russia
+  Network Engineer, IT Manager
 Deploy Cisco routers and switches, and administer Network Monitoring services.
 Responsible for network evaluations, troubleshooting a variety of network problems, and implementing various software and hardware upgrades.
 Designed and deployed DMZ infrastructure.
 Design, planning and deployment Cisco VoIP system on CUCM cluster with integration to AD.
 
 ##### 10.2005 – 11.2014
-###### Honda Motor Co. Ltd
-    Khabarovsk, Russia
-    System Engineer, Director of IT
+##### Honda Motor Co. Ltd
+  Khabarovsk, Russia
+  System Engineer, Director of IT
 Providing first, second and third line support of IT hardware, software and infrastructure.
 Monitoring network performance, protecting network data, management and optimization.
 Configuring the networking devices (Cisco Router, switches) 
@@ -84,16 +84,16 @@ Manage and administer private clouds in Hyper-V and Vmware infrastructure.
 ## Education
 
 ##### Cisco ROUTE 2.0
-    2015
-    Softline Education
-    Moscow, Russia
+  2015
+  Softline Education
+  Moscow, Russia
 
 ##### VMware vSphere: Install, Configure, Manage
-    2011
-    Softline Education
-    Khabarovsk, Russia
+  2011
+  Softline Education
+  Khabarovsk, Russia
 
 ##### Computer science, Masters
-    2005
-    Khabarovsk State Technical University
-    Khabarovsk, Russia
+  2005
+  Khabarovsk State Technical University
+  Khabarovsk, Russia
