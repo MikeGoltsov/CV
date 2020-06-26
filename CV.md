@@ -1,16 +1,16 @@
-#Mike Goltsov
+## Mike Goltsov
 St.Petersburg, Russia
 Tel: +7 (999) 080-71-61 E-mail: rusd@gmx.com
 
 
-##Network Engineer 
+## Network Engineer 
 
 Highly accomplished CCNA certified Network engineering professional with 10+ years of experience in designing, deploying, and supporting networks. Proven ability to manage all phases of project life: inception, documentation, procurement, deployment, and turnover for monitoring and administration. Exceptional technical-to-business communication skills. Strong analytical and problem solving skills utilizing logical and systematic approach. Ability to work as a team member or individually. Proven leadership skills. Capable of making critical decisions while under pressure and assuming responsibility for results. Outstanding customer service skills. 
 
 
-###Technical Skill set Summary
+### Technical Skill set Summary
 
-####Technologies:
+#### Technologies:
 -	Routing: EIGRP / OSPF / MP-BGP / route redistribution / PBR / NAT / VRF-Lite;
 -	Switching: Vlan / VTP / STP / Etherchannel / LACP / Q-in-Q / QoS / MPLS / RSVP-TE;
 -	FHRP: VRRP / HSRP / GLBP;
@@ -18,7 +18,7 @@ Highly accomplished CCNA certified Network engineering professional with 10+ yea
 -	Security: ACL / AAA / NAT / Port Security / Radius / TACACS+;
 -	VoIP – Cisco Unified Communication Manager 10.5 / CUCME / CUBE / SIP / H.323 / MGCP / SRST / E1 / Avaya IP Office;
 
-####Networking:
+#### Networking:
 -	Cisco routers 800 / 1800 / 1900 / 2800 / 2900 / 3900 / CSR1000v series 
 -	Cisco switches C2960(S/X) / C3560 / C3020 / C3750 / ME4924 / C6500 / Nexus 1000V 
 -	Cisco ASA 5500  firewalls, АПКШ Континент
@@ -28,22 +28,22 @@ Highly accomplished CCNA certified Network engineering professional with 10+ yea
 -	Switches: D-Link DGS / Huawei S5300 / Maipu S4320 / EdgeCore ES3500 
 -	SAN: IBM SAN24B FC switches, HP MSA P2000, iSCSI
 -	Servers: HP ProLiant ML, DL, BL series / IBM x-series / DELL 
--	Системы видеоконференций Polycom, Emblaze Vcon
+-	Polycom, Emblaze Vcon
 
-###Monitoring:
+#### Monitoring:
 -	Grafana / Prometheus / Thanos
 -	ELK stack / Opendistro /
 -	Cisco Prime Infrastucture 2.2, 3.0 / WhatsUp / Zabbix / MRTG / Observium / Oxidized / Netbox
 -	WireShark / SPAN  / RSPAN
 
-###Automation:
+#### Automation:
 - Jira
 - Ansible
 - Gitlab / CI/CD
 - Python (Netmiko), Perl;
 - Cisco EMM
 
-###Administration:
+#### Administration:
 - Kubernetes / Docker
 - Gluster / Minio
 - CentOS / RedHat
@@ -54,7 +54,7 @@ Highly accomplished CCNA certified Network engineering professional with 10+ yea
 - Symantec BackUp
 
 
-##Professional experience:
+## Professional experience:
 
 11.2014 - Present
 The General Radio Frequency Management Centre
@@ -79,7 +79,7 @@ Troubleshooting, administration and support of Windows 2008, FreeBSD servers on 
 Manage and administer private clouds in Hyper-V and Vmware infrastructure.
 
 
-##Education
+## Education
 
 Cisco ROUTE 2.0
 2015
