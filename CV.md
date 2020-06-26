@@ -1,43 +1,60 @@
-Mike Goltsov
+#Mike Goltsov
 St.Petersburg, Russia
 Tel: +7 (999) 080-71-61 E-mail: rusd@gmx.com
 
 
-
-Network Engineer 
+##Network Engineer 
 
 Highly accomplished CCNA certified Network engineering professional with 10+ years of experience in designing, deploying, and supporting networks. Proven ability to manage all phases of project life: inception, documentation, procurement, deployment, and turnover for monitoring and administration. Exceptional technical-to-business communication skills. Strong analytical and problem solving skills utilizing logical and systematic approach. Ability to work as a team member or individually. Proven leadership skills. Capable of making critical decisions while under pressure and assuming responsibility for results. Outstanding customer service skills. 
 
 
-Technical Skill set Summary
+###Technical Skill set Summary
+
+####Technologies:
+-	Routing: EIGRP / OSPF / MP-BGP / route redistribution / PBR / NAT / VRF-Lite;
+-	Switching: Vlan / VTP / STP / Etherchannel / LACP / Q-in-Q / QoS / MPLS / RSVP-TE;
+-	FHRP: VRRP / HSRP / GLBP;
+-	VPN: GRE Tunnel / mGRE / L2TP / IPSec / DMVPN / EZVPN / L2VPN(Martini) / L3VPN / VXLAN / EVPN;
+-	Security: ACL / AAA / NAT / Port Security / Radius / TACACS+;
+-	VoIP – Cisco Unified Communication Manager 10.5 / CUCME / CUBE / SIP / H.323 / MGCP / SRST / E1 / Avaya IP Office;
+
+####Networking:
+-	Cisco routers 800 / 1800 / 1900 / 2800 / 2900 / 3900 / CSR1000v series 
+-	Cisco switches C2960(S/X) / C3560 / C3020 / C3750 / ME4924 / C6500 / Nexus 1000V 
+-	Cisco ASA 5500  firewalls, АПКШ Континент
+-	Juniper MX Series
+-	Mikrotik
+-	Supermicro SDN switches / Cumulus linux
+-	Switches: D-Link DGS / Huawei S5300 / Maipu S4320 / EdgeCore ES3500 
+-	SAN: IBM SAN24B FC switches, HP MSA P2000, iSCSI
+-	Servers: HP ProLiant ML, DL, BL series / IBM x-series / DELL 
+-	Системы видеоконференций Polycom, Emblaze Vcon
+
+###Monitoring:
+-	Grafana / Prometheus / Thanos
+-	ELK stack / Opendistro /
+-	Cisco Prime Infrastucture 2.2, 3.0 / WhatsUp / Zabbix / MRTG / Observium / Oxidized / Netbox
+-	WireShark / SPAN  / RSPAN
+
+###Automation:
+- Jira
+- Ansible
+- Gitlab / CI/CD
+- Python (Netmiko), Perl;
+- Cisco EMM
+
+###Administration:
+- Kubernetes / Docker
+- Gluster / Minio
+- CentOS / RedHat
+- VMware ESXi 5.1- 7 - VCenter / Ovirt
+- Microsoft Hyper-V - SCVMM
+- Microsoft Windows Servers  2003 / 2008(R2) / 2012(R2) / 2016
+- Active Directory / Group Policy / WSUS 
+- Symantec BackUp
 
 
-    • Cisco routers 800 / 1800 / 2800 / 2900 / 3900 / CSR1000v series 
-    • Cisco switches C2960(S/X) / C3560 / C3020 / C3750 / ME4924 / C6500 / Nexus 1000V / Nexus 5000
-    • Cisco ASA 5505X / 5510  firewalls
-    • Cisco Wireless Control System – Aironet APs and controllers
-    • Routing: EIGRP / OSPF / MP-BGP / IS-IS / route redistribution / PBR / SLA / VRRP
-    • Switching: Vlan / VTP / STP / Etherchannel / LACP / Q-in-Q / QoS
-    • VPN: GRE Tunnel / mGRE / L2TP / IPSec / DMVPN / MPLS / RSVP-TE / L2VPN / L3VPN
-    • Security: ACL / NAT / 802.1x / Port Security / Radius / TACACS+ 
-    • VoIP – Cisco Unified Communication Manager 10.5 / SIP/ H.323 / CME / MGCP / SRST / E1;
-    • Monitoring and inventory: Cisco Prime Infrastucture 2.2, 3.0 / WhatsUp / Zabbix
-    • WireShark / SPAN  
-    • Switches: D-Link DGS series / Huawei S5300 series 
-    • Juniper routers MX Series
-    • SAN: IBM SAN24B FC switches, HP MSA P2000
-    • Servers: HP ProLiant ML, DL, BL series / IBM x-series / DELL 
-    • Virtualisation: VMware ESXi 4.1-6.0 - VCenter / Microsoft Hyper-V - SCVMM
-    • Microsoft Windows Servers  2003 / 2008(R2) / 2012(R2)
-    • Active Directory / Group Policy / WSUS 
-    • FreeBSD / SUSE / RedHat / CentOS
-    • Infotecs VipNet
-    • Symantec BackUp
-
-
-Professional experience
-
-
+##Professional experience:
 
 11.2014 - Present
 The General Radio Frequency Management Centre
@@ -62,17 +79,19 @@ Troubleshooting, administration and support of Windows 2008, FreeBSD servers on 
 Manage and administer private clouds in Hyper-V and Vmware infrastructure.
 
 
-Education
+##Education
 
 Cisco ROUTE 2.0
 2015
 Softline Education
 Moscow, Russia
 VMware vSphere: Install, Configure, Manage
+
 2011
 Softline Education
 Khabarovsk, Russia
 Computer science, Masters
+
 2005
 Khabarovsk State Technical University
 Khabarovsk, Russia
