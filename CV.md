@@ -1,7 +1,7 @@
 ## Mike Goltsov
-St.Petersburg, Russia
-Tel: +7 (999) 080-71-61 
-E-mail: rusd@gmx.com
+St.Petersburg, Russia  
+Tel: +7 (999) 080-71-61  
+E-mail: rusd@gmx.com  
 
 
 ## DevOps Engineer 
@@ -55,12 +55,12 @@ Highly accomplished engineering professional with 10+ years of experience in des
 ## Professional experience:
 
 ##### 06.2019 - present
-##### STC Ltd.
+**STC Ltd.**
 Saint Petersburg, Russia  
 DevOps / Infrastructure engineer  
 
 ##### 11.2014 - 05.2019
-##### The General Radio Frequency Management Centre
+**The General Radio Frequency Management Centre**
 Khabarovsk, Russia  
 Network Engineer, IT Manager  
 Deploy Cisco routers and switches, and administer Network Monitoring services.
@@ -69,7 +69,7 @@ Designed and deployed DMZ infrastructure.
 Design, planning and deployment Cisco VoIP system on CUCM cluster with integration to AD.
 
 ##### 10.2005 – 11.2014
-##### Honda Motor Co. Ltd
+**Honda Motor Co. Ltd**
 Khabarovsk, Russia  
 System Engineer, Director of IT  
 Providing first, second and third line support of IT hardware, software and infrastructure.
