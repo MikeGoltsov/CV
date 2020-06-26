@@ -15,9 +15,9 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 - Ansible / Terraform / IaC
 - Bash / Python 
 - CI/CD (Gitlab)
-- Docker / Kubernetes / CNI
+- Docker / Kubernetes / CNI / Helm / Nginx
 - Gluster / Minio / S3 
-- Scylla / PostgreSQL (Stolon) / etcd
+- NoSQL / Scylla / PostgreSQL (Stolon) / Etcd
 - Spark + Mesos
 - RabbitMQ / KeyDB / Nsq / Apache Kafka / Zookeeper
 - CentOS / RedHat / Ubuntu / Astra Linux
@@ -27,8 +27,8 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 #### Monitoring:
 - Grafana / Prometheus / Thanos
 - ELK stack / Opendistro / Fluentd
+- Tcpdump / WireShark / SPAN  / RSPAN
 - Cisco Prime Infrastucture 2.2, 3.0 / WhatsUp / Zabbix / MRTG / Observium / Oxidized / Netbox
-- WireShark / SPAN  / RSPAN
 
 #### Networking:
 - Routing: EIGRP / OSPF / MP-BGP / route redistribution / PBR / NAT / VRF-Lite
@@ -45,7 +45,6 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 - Supermicro SDN switches / Cumulus linux
 - Switches: D-Link DGS / Huawei S5300 / Maipu S4320 / EdgeCore ES3500 
 - SAN: IBM SAN24B FC switches, HP MSA P2000, iSCSI
-- Servers: HP ProLiant ML, DL, BL series / IBM x-series / DELL 
 - Polycom, Emblaze Vcon
 - Cisco EMM
 
