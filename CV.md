@@ -3,60 +3,62 @@ St.Petersburg, Russia
 Tel: +7 (999) 080-71-61 E-mail: rusd@gmx.com
 
 
-## Network Engineer 
+## DevOps Engineer 
 
-Highly accomplished CCNA certified Network engineering professional with 10+ years of experience in designing, deploying, and supporting networks. Proven ability to manage all phases of project life: inception, documentation, procurement, deployment, and turnover for monitoring and administration. Exceptional technical-to-business communication skills. Strong analytical and problem solving skills utilizing logical and systematic approach. Ability to work as a team member or individually. Proven leadership skills. Capable of making critical decisions while under pressure and assuming responsibility for results. Outstanding customer service skills. 
+Highly accomplished engineering professional with 10+ years of experience in designing, deploying, and supporting server and network infratructure. CCNA certified Network engineer. Proven ability to manage all phases of project life: inception, documentation, procurement, deployment, and turnover for monitoring and administration. Exceptional technical-to-business communication skills. Strong analytical and problem solving skills utilizing logical and systematic approach. Ability to work as a team member or individually. Proven leadership skills. Capable of making critical decisions while under pressure and assuming responsibility for results. Outstanding customer service skills. 
 
 
 ### Technical Skill set Summary
 
-#### Technologies:
--	Routing: EIGRP / OSPF / MP-BGP / route redistribution / PBR / NAT / VRF-Lite;
--	Switching: Vlan / VTP / STP / Etherchannel / LACP / Q-in-Q / QoS / MPLS / RSVP-TE;
--	FHRP: VRRP / HSRP / GLBP;
--	VPN: GRE Tunnel / mGRE / L2TP / IPSec / DMVPN / EZVPN / L2VPN(Martini) / L3VPN / VXLAN / EVPN;
--	Security: ACL / AAA / NAT / Port Security / Radius / TACACS+;
--	VoIP – Cisco Unified Communication Manager 10.5 / CUCME / CUBE / SIP / H.323 / MGCP / SRST / E1 / Avaya IP Office;
-
-#### Networking:
--	Cisco routers 800 / 1800 / 1900 / 2800 / 2900 / 3900 / CSR1000v series 
--	Cisco switches C2960(S/X) / C3560 / C3020 / C3750 / ME4924 / C6500 / Nexus 1000V 
--	Cisco ASA 5500  firewalls, АПКШ Континент
--	Juniper MX Series
--	Mikrotik
--	Supermicro SDN switches / Cumulus linux
--	Switches: D-Link DGS / Huawei S5300 / Maipu S4320 / EdgeCore ES3500 
--	SAN: IBM SAN24B FC switches, HP MSA P2000, iSCSI
--	Servers: HP ProLiant ML, DL, BL series / IBM x-series / DELL 
--	Polycom, Emblaze Vcon
-
-#### Monitoring:
--	Grafana / Prometheus / Thanos
--	ELK stack / Opendistro /
--	Cisco Prime Infrastucture 2.2, 3.0 / WhatsUp / Zabbix / MRTG / Observium / Oxidized / Netbox
--	WireShark / SPAN  / RSPAN
-
-#### Automation:
+#### Skills:
+- Ansible / Terraform / IaC
+- Bash / Python 
+- CI/CD (Gitlab)
 - Jira
-- Ansible
-- Gitlab / CI/CD
-- Python (Netmiko), Perl;
-- Cisco EMM
 
 #### Administration:
-- Kubernetes / Docker
+- Docker / Kubernetes / CNI
 - Gluster / Minio
+- Scylla / Postgre (Stolon) / etcd
+- RabbitMQ / KeyDB / Apache Kafka
 - CentOS / RedHat
-- VMware ESXi 5.1- 7 - VCenter / Ovirt
-- Microsoft Hyper-V - SCVMM
-- Microsoft Windows Servers  2003 / 2008(R2) / 2012(R2) / 2016
-- Active Directory / Group Policy / WSUS 
-- Symantec BackUp
+- VMware ESXi 5.1-7 (VCenter) / Ovirt
 
+#### Monitoring:
+- Grafana / Prometheus / Thanos
+- ELK stack / Opendistro
+- Cisco Prime Infrastucture 2.2, 3.0 / WhatsUp / Zabbix / MRTG / Observium / Oxidized / Netbox
+- WireShark / SPAN  / RSPAN
+
+#### Technologies:
+- Routing: EIGRP / OSPF / MP-BGP / route redistribution / PBR / NAT / VRF-Lite
+- Switching: Vlan / VTP / STP / Etherchannel / LACP / Q-in-Q / QoS / MPLS / RSVP-TE
+- FHRP: VRRP / HSRP / GLBP
+- VPN: GRE Tunnel / mGRE / L2TP / IPSec / DMVPN / EZVPN / L2VPN(Martini) / L3VPN / VXLAN / EVPN
+- Security: ACL / AAA / NAT / Port Security / Radius / TACACS+
+- VoIP – Cisco Unified Communication Manager 10.5 / CUCME / CUBE / SIP / H.323 / MGCP / SRST / E1 / Avaya IP Office
+
+#### Networking:
+- Cisco routers 800 / 1800 / 1900 / 2800 / 2900 / 3900 / CSR1000v series 
+- Cisco switches C2960(S/X) / C3560 / C3020 / C3750 / ME4924 / C6500 / Nexus 1000V 
+- Cisco ASA 5500  firewalls, АПКШ Континент
+- Juniper MX Series
+- Mikrotik
+- Supermicro SDN switches / Cumulus linux
+- Switches: D-Link DGS / Huawei S5300 / Maipu S4320 / EdgeCore ES3500 
+- SAN: IBM SAN24B FC switches, HP MSA P2000, iSCSI
+- Servers: HP ProLiant ML, DL, BL series / IBM x-series / DELL 
+- Polycom, Emblaze Vcon
+- Cisco EMM
 
 ## Professional experience:
 
-11.2014 - Present
+06.2019 - present
+STC Ltd.
+Saint Petersburg, Russia
+DevOps / Infrastructure engineer
+
+11.2014 - 05.2019
 The General Radio Frequency Management Centre
 Khabarovsk, Russia
 Network Engineer, IT Manager
