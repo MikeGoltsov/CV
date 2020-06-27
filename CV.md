@@ -21,14 +21,14 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 - Spark + Mesos
 - Apache Kafka / NSQ
 - CentOS / RedHat / Ubuntu / Astra Linux
-- Jira
-- VMware ESXi 5.1 - 7.0 (VCenter) / Ovirt
+- Jira / Netbox
+- VMware ESXi 5.1 - 7.0 (VCenter) / KVM / Ovirt
 
 #### Monitoring:
-- Grafana / Prometheus / Thanos
-- ELK stack / Opendistro / Fluentd
+- Grafana / Prometheus / Thanos / SNMP
+- ELK stack / Opendistro / Fluentd 
 - Tcpdump / WireShark / SPAN  / RSPAN
-- Cisco Prime Infrastucture 2.2, 3.0 / WhatsUp / Zabbix / MRTG / Observium / Oxidized / Netbox
+- Cisco Prime Infrastucture 2.2, 3.0 / WhatsUp / Zabbix / MRTG / Observium / Oxidized
 
 #### Networking:
 - Routing: EIGRP / OSPF / MP-BGP / route redistribution / PBR / NAT / VRF-Lite
