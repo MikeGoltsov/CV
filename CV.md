@@ -17,9 +17,9 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 - CI/CD (Gitlab)
 - Docker / Kubernetes / CNI / Helm / Nginx
 - Gluster / Minio / S3 
-- NoSQL / Scylla / PostgreSQL (Stolon) / Etcd
+- NoSQL / Scylla / Redis / KeyDB / PostgreSQL (Stolon) / Zookeeper / Etcd
 - Spark + Mesos
-- RabbitMQ / KeyDB / Nsq / Apache Kafka / Zookeeper
+- Apache Kafka / NSQ
 - CentOS / RedHat / Ubuntu / Astra Linux
 - Jira
 - VMware ESXi 5.1 - 7.0 (VCenter) / Ovirt
