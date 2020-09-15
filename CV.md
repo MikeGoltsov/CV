@@ -16,7 +16,7 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 - Bash / Python 
 - CI/CD (Gitlab)
 - Docker / Kubernetes / CNI / Helm / Nginx
-- Gluster / Minio / S3 
+- Gluster / Minio / CEPH(RGW/S3) 
 - NoSQL / Scylla / Redis / KeyDB / PostgreSQL (Stolon) / Zookeeper / Etcd
 - Spark + Mesos
 - Apache Kafka / NSQ
@@ -25,7 +25,7 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 - VMware ESXi 5.1 - 7.0 (VCenter) / KVM / Ovirt
 
 #### Monitoring:
-- Grafana / Prometheus / Thanos / SNMP
+- Grafana / Prometheus / Thanos / SNMP / VictoriaMetrics
 - ELK stack / Opendistro / Fluentd 
 - Tcpdump / WireShark / SPAN  / RSPAN
 - Cisco Prime Infrastucture 2.2, 3.0 / WhatsUp / Zabbix / MRTG / Observium / Oxidized
