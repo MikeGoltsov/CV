@@ -22,7 +22,7 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 - Apache Kafka / NSQ
 - CentOS / RedHat / Ubuntu / Astra Linux
 - Jira / Netbox
-- VMware ESXi 5.1 - 7.0 (VCenter) / KVM / Ovirt
+- VMware ESXi 5.1 - 7.0 (VCenter) / VSAN / KVM / Ovirt
 
 #### Monitoring:
 - Grafana / Prometheus / Thanos / SNMP / VictoriaMetrics
