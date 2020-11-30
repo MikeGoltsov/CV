@@ -49,11 +49,18 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 - Cisco EMM
 
 ## Professional experience:
+**11.2020 - present**  
+**OZON.ru**  
+Saint Petersburg, Russia  
+DevOps / Infrastructure engineer 
 
-**06.2019 - present**  
+**06.2019 - 11.2020**  
 **STC Ltd.**  
 Saint Petersburg, Russia  
 DevOps / Infrastructure engineer  
+Data Center architecture planning. 
+Automating Deployment and Operations of Kubernetes, Scylla and Ceph clusters.
+Establishing interconnection between development and operations teams.
 
 **11.2014 - 05.2019**  
 **The General Radio Frequency Management Centre**  
