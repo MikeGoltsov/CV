@@ -15,18 +15,18 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 - Ansible / Terraform / IaC
 - Bash / Python 
 - CI/CD (Gitlab)
-- Docker / Kubernetes / CNI / Helm / Nginx
-- Gluster / Minio / CEPH(RGW/S3) 
-- NoSQL / Scylla / Redis / KeyDB / PostgreSQL (Stolon) / Zookeeper / Etcd
+- Docker / Kubernetes / Containerd / Calico / CSI / Helm / QBEC / Nginx
+- Gluster / Minio / CEPH
+- NoSQL / Scylla / Redis / KeyDB / PostgreSQL / Zookeeper / Etcd
 - Spark + Mesos
 - Apache Kafka / NSQ
-- CentOS / RedHat / Ubuntu / Astra Linux
+- CentOS / RedHat / Ubuntu 
 - Jira / Netbox
 - VMware ESXi 5.1 - 7.0 (VCenter) / VSAN / KVM / Ovirt
 
 #### Monitoring:
 - Grafana / Prometheus / Thanos / SNMP / VictoriaMetrics
-- ELK stack / Opendistro / Fluentd 
+- ELK stack / Opendistro / Fluentd
 - Tcpdump / WireShark / SPAN  / RSPAN
 - Cisco Prime Infrastucture 2.2, 3.0 / WhatsUp / Zabbix / MRTG / Observium / Oxidized
 
@@ -53,6 +53,8 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 **OZON.ru**  
 Saint Petersburg, Russia  
 DevOps / Infrastructure engineer 
+Kubernetes clusters administration.
+Data Center architecture planning. 
 
 **06.2019 - 11.2020**  
 **STC Ltd.**  
