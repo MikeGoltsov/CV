@@ -52,9 +52,9 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 **11.2020 - present**  
 **OZON.ru**  
 Saint Petersburg, Russia  
-DevOps / Infrastructure engineer 
-Kubernetes clusters administration.
-Data Center architecture planning. 
+DevOps / Infrastructure engineer  
+Kubernetes clusters administration.  
+Data Center architecture planning.  
 
 **06.2019 - 11.2020**  
 **STC Ltd.**  
