@@ -13,7 +13,7 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 
 #### Skills:
 - Ansible / Terraform / IaC
-- Bash / Python 
+- Bash / Python / Golang
 - CI/CD (Gitlab)
 - Docker / Kubernetes / Containerd / Calico / CSI / Helm / QBEC / Nginx
 - Gluster / Minio / CEPH
