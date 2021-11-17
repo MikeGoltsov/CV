@@ -30,7 +30,7 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 - Tcpdump / WireShark / SPAN  / RSPAN
 - Cisco Prime Infrastucture 2.2, 3.0 / WhatsUp / Zabbix / MRTG / Observium / Oxidized
 
-#### Networking:
+#### Networks:
 - Routing: EIGRP / OSPF / MP-BGP / route redistribution / PBR / NAT / VRF-Lite
 - Switching: Vlan / VTP / STP / Etherchannel / LACP / Q-in-Q / QoS / MPLS / RSVP-TE
 - FHRP: VRRP / HSRP / GLBP
@@ -52,22 +52,23 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 **11.2020 - present**  
 **OZON.ru**  
 Saint Petersburg, Russia  
-DevOps / Infrastructure engineer  
-Kubernetes clusters administration.  
-Data Center architecture planning.  
+Administration of large-scale Kubernetes clusters (500+ baremetal servers). 
+Implementation IaC principles. 
+Maintenance of interaction with other teams. 
+Planning the HA architecture across multiple data centers. 
 
 **06.2019 - 11.2020**  
 **STC Ltd.**  
 Saint Petersburg, Russia  
 DevOps / Infrastructure engineer  
-Data Center architecture planning. 
-Automating Deployment and Operations of Kubernetes, Scylla and Ceph clusters.
-Establishing interconnection between development and operations teams.
+Planning the architecture of the data center. 
+Automating Deployment and Operations of Kubernetes, Scylla and Ceph clusters. 
+Establishing interconnection between development and operations teams. 
 
 **11.2014 - 05.2019**  
 **The General Radio Frequency Management Centre**  
 Khabarovsk, Russia  
-Network Engineer, IT Manager  
+Senior network Engineer, Team lead  
 Deploy Cisco routers and switches, and administer Network Monitoring services.
 Responsible for network evaluations, troubleshooting a variety of network problems, and implementing various software and hardware upgrades.
 Designed and deployed DMZ infrastructure.
@@ -76,7 +77,7 @@ Design, planning and deployment Cisco VoIP system on CUCM cluster with integrati
 **10.2005 – 11.2014**  
 **Honda Motor Co. Ltd**  
 Khabarovsk, Russia  
-System Engineer, Director of IT  
+System Engineer  
 Providing first, second and third line support of IT hardware, software and infrastructure.
 Monitoring network performance, protecting network data, management and optimization.
 Configuring the networking devices (Cisco Router, switches) 
