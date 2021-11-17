@@ -78,13 +78,13 @@ Design, planning and deployment Cisco VoIP system on CUCM cluster with integrati
 **Honda Motor Co. Ltd**  
 Khabarovsk, Russia  
 System Engineer  
-Providing first, second and third line support of IT hardware, software and infrastructure.
-Monitoring network performance, protecting network data, management and optimization.
-Configuring the networking devices (Cisco Router, switches) 
-Design the layout for cable and WLAN Installations.
-Provide intranet VPN solution.
-Troubleshooting, administration and support of Windows 2008, FreeBSD servers on DELL and HP hardware at all levels.
-Manage and administer private clouds in Hyper-V and Vmware infrastructure.
+Providing first, second and third line support of IT hardware, software and infrastructure.  
+Monitoring network performance, protecting network data, management and optimization.  
+Configuring the networking devices (Cisco Router, switches)  
+Design the layout for cable and WLAN Installations.  
+Provide intranet VPN solution.  
+Troubleshooting, administration and support of Windows 2008, FreeBSD servers on DELL and HP hardware at all levels.  
+Manage and administer private clouds in Hyper-V and Vmware infrastructure.  
 
 
 ## Education
