@@ -6,7 +6,7 @@ E-mail: rusd@gmx.com
 
 ## DevOps Engineer 
 
-Highly accomplished professional with 10+ years of experience in designing, deploying, and supporting server and network infratructure. CCNA certified Network engineer. Proven ability to manage all phases of project life: inception, documentation, procurement, deployment, and turnover for monitoring and administration. Exceptional technical-to-business communication skills. Strong analytical and problem solving skills utilizing logical and systematic approach. Ability to work as a team member or individually. Proven leadership skills. Capable of making critical decisions while under pressure and assuming responsibility for results. Outstanding customer service skills. 
+Highly accomplished professional with 10+ years of experience in designing, deploying, and supporting server and network infrastructure. CCNA certified Network engineer. Ability to manage all phases of project life: inception, documentation, procurement, deployment, and turnover for monitoring and administration. Exceptional technical-to-business communication skills. Strong analytical and problem solving skills utilizing logical and systematic approach. Ability to work as a team member or individually. Capable of making critical decisions while under pressure and assuming responsibility for results.
 
 
 ### Technical Skill set Summary
@@ -52,7 +52,7 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 **11.2020 - present**  
 **OZON.ru**  
 Saint Petersburg, Russia  
-Administration of large-scale Kubernetes clusters (500+ baremetal servers).  
+Administration of large-scale Kubernetes clusters (1000+ baremetal servers).  
 Implementation IaC principles.  
 Maintenance of interaction with other teams.  
 Planning the HA architecture across multiple data centers.  
