@@ -56,6 +56,7 @@ Administration of large-scale Kubernetes clusters (1000+ baremetal servers).
 Implementation IaC principles.  
 Maintenance of interaction with other teams.  
 Planning the HA architecture across multiple data centers.  
+Cloud infrastructure management (Yandex cloud)
 
 **06.2019 - 11.2020**  
 **STC Ltd.**  
@@ -64,6 +65,7 @@ DevOps / Infrastructure engineer
 Planning the architecture of the data center.  
 Automating Deployment and Operations of Kubernetes, Scylla and Ceph clusters.  
 Establishing interconnection between development and operations teams.  
+Cloud infrastructure management (Selectel)
 
 **11.2014 - 05.2019**  
 **The General Radio Frequency Management Centre**  
@@ -99,7 +101,7 @@ Moscow, Russia
 Softline Education  
 Khabarovsk, Russia
 
-**Computer science, Masters**  
+**Computer science, Engineer (Specialist)**  
 2005  
 Khabarovsk State Technical University  
 Khabarovsk, Russia
