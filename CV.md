@@ -52,7 +52,7 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 **11.2020 - present**  
 **OZON.ru**  
 Saint Petersburg, Russia  
-Administration of large-scale Kubernetes clusters (1000+ baremetal servers).  
+Building and administration of large-scale Kubernetes clusters (1000+ baremetal servers).  
 Implementation IaC principles.  
 Maintenance of interaction with other teams.  
 Planning the HA architecture across multiple data centers.  
