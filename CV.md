@@ -1,6 +1,6 @@
 ## Mike Goltsov
-St.Petersburg, Russia  
-Tel: +7 (999) 080-71-61  
+Berlin, Germany  
+Tel: +49 (159) 0174-32-33  
 E-mail: rusd@gmx.com  
 
 
@@ -49,7 +49,12 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 - Cisco EMM
 
 ## Professional experience:
-**11.2020 - present**  
+**08.2022 - present**  
+**Vay Technology GmbH**  
+Berlin, Germany  
+Senior DevOps engineer  
+
+**11.2020 - 08.2022**  
 **OZON.ru**  
 Saint Petersburg, Russia  
 Building and administration of large-scale Kubernetes clusters (1000+ baremetal servers).  
