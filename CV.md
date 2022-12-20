@@ -14,19 +14,19 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 #### Skills:
 - Ansible / Terraform / IaC
 - Bash / Python / Golang
-- CI/CD (Gitlab)
+- CI/CD / Gitlab / GitHub Actions
 - Docker / Kubernetes / Containerd / Calico / CSI / Helm / QBEC / Nginx
 - Gluster / Minio / CEPH
 - NoSQL / Scylla / Redis / KeyDB / PostgreSQL / Zookeeper / Etcd
 - Spark + Mesos
 - Apache Kafka / NSQ
-- CentOS / RedHat / Ubuntu 
+- Ubuntu / CentOS / RedHat 
 - Jira / Netbox
-- VMware ESXi 5.1 - 7.0 (VCenter) / VSAN / KVM / Ovirt
+- VMware ESXi 5.1 - 7.0 (VCenter) / VSAN / Proxmox / Ovirt / KVM
 
 #### Monitoring:
-- Grafana / Prometheus / Thanos / SNMP / VictoriaMetrics
-- ELK stack / Opendistro / Fluentd
+- Grafana / VictoriaMetrics / Prometheus / Alertmanager / Thanos / SNMP
+- ELK stack / Opendistro / Fluentd / Loki
 - Tcpdump / WireShark / SPAN  / RSPAN
 - Cisco Prime Infrastucture 2.2, 3.0 / WhatsUp / Zabbix / MRTG / Observium / Oxidized
 
@@ -52,7 +52,10 @@ Highly accomplished professional with 10+ years of experience in designing, depl
 **08.2022 - present**  
 **Vay Technology GmbH**  
 Berlin, Germany  
-Senior DevOps engineer  
+Senior SRE engineer  
+Building a monitoring and alerting system.    
+Solving infrastructure performance problems.  
+Cloud infrastructure management (AWS)    
 
 **11.2020 - 08.2022**  
 **OZON.ru**  
