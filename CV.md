@@ -4,55 +4,58 @@ Tel: +49 (159) 0174-32-33
 E-mail: rusd@gmx.com  
 
 
-## DevOps Engineer 
+## DevOps/Infrastructure Engineer 
 
-Highly accomplished professional with 10+ years of experience in designing, deploying, and supporting server and network infrastructure. CCNA certified Network engineer. Ability to manage all phases of project life: inception, documentation, procurement, deployment, and turnover for monitoring and administration. Exceptional technical-to-business communication skills. Strong analytical and problem solving skills utilizing logical and systematic approach. Ability to work as a team member or individually. Capable of making critical decisions while under pressure and assuming responsibility for results.
+Dynamic and accomplished professional with 10+ years of experience designing, deploying, and supporting robust server and network infrastructures. Certified engineer, with proven expertise in managing full project life cycles—from inception through documentation, procurement, deployment, and monitoring. Known for exceptional communication, bridging technical complexities with business requirements, and delivering on critical initiatives under pressure. Skilled in team collaboration and independent project management, with strong analytical and problem-solving abilities.
 
 
 ### Technical Skill set Summary
 
-#### Skills:
-- Ansible / Terraform / IaC
-- Bash / Python / Golang
-- CI/CD / Gitlab / GitHub Actions
-- Docker / Kubernetes / Containerd / Calico / CSI / Helm / QBEC / Nginx
-- Gluster / Minio / CEPH
-- NoSQL / Scylla / Redis / KeyDB / PostgreSQL / Zookeeper / Etcd
-- Spark + Mesos
-- Apache Kafka / NSQ
-- Ubuntu / CentOS / RedHat 
-- Jira / Netbox
-- VMware ESXi 5.1 - 7.0 (VCenter) / VSAN / Proxmox / Ovirt / KVM
+#### Infrastructure as Code & Automation:
+- AWS, Cloud providers
+- Ansible, Terraform, QBEC, Jsonnet, IaC
+- Bash, Python, Golang
 
-#### Monitoring:
-- Grafana / VictoriaMetrics / Prometheus / Alertmanager / Thanos / SNMP
-- ELK stack / Opendistro / Fluentd / Loki
-- Tcpdump / WireShark / SPAN  / RSPAN
-- Cisco Prime Infrastucture 2.2, 3.0 / WhatsUp / Zabbix / MRTG / Observium / Oxidized
+#### CI/CD & Containerization:
+- GitLab, Github CI/CD
+- Kubernetes, Docker, Containerd, CNI/Calico, CSI, Helm, NGINX
 
-#### Networks:
-- Routing: EIGRP / OSPF / MP-BGP / route redistribution / PBR / NAT / VRF-Lite
-- Switching: Vlan / VTP / STP / Etherchannel / LACP / Q-in-Q / QoS / MPLS / RSVP-TE
-- FHRP: VRRP / HSRP / GLBP
-- VPN: GRE Tunnel / mGRE / L2TP / IPSec / DMVPN / EZVPN / L2VPN(Martini) / L3VPN / VXLAN / EVPN
-- Security: ACL / AAA / NAT / Port Security / Radius / TACACS+
-- VoIP – Cisco Unified Communication Manager 10.5 / CUCME / CUBE / SIP / H.323 / MGCP / SRST / E1 / Avaya IP Office
-- Cisco routers 800 / 1800 / 1900 / 2800 / 2900 / 3900 / CSR1000v series 
-- Cisco switches C2960(S/X) / C3560 / C3020 / C3750 / ME4924 / C6500 / Nexus 1000V 
-- Cisco ASA 5500  firewalls, АПКШ Континент
-- Juniper MX Series
-- Mikrotik
-- Supermicro SDN switches / Cumulus linux
-- Switches: D-Link DGS / Huawei S5300 / Maipu S4320 / EdgeCore ES3500 
-- SAN: IBM SAN24B FC switches, HP MSA P2000, iSCSI
-- Polycom, Emblaze Vcon
-- Cisco EMM
+#### Operating Systems & Virtualization:
+- Performance optimization across diverse environments
+- In-depth knowledge of network subsytem and isolation mechanisms within Linux kernel
+- Expertise with major Linux distributions (CentOS, RedHat, Ubuntu)
+- Main virtualization systems (VMware ESXi/VCenter, KVM, Ovirt, Proxmox)
+
+#### Monitoring & Observability:
+- Grafana, Prometheus, Thanos, VictoriaMetrics, Zabbix
+- ELK Stack, Opendistro, Fluentd, Loki
+- Tcpdump, WireShark, Netflow
+
+#### Networking & Security:
+- Extensive experience with Cisco, Juniper, Arista, Huawei, and Mikrotik equipment in company-wide and data center environments
+- Routing: OSPF, FHRP, BGP, MP-BGP, Route Redistribution, PBR, NAT, VRF-Lite
+- Switching: VLAN, VTP, STP, EtherChannel, QoS, MPLS
+- VPN Technologies: GRE, mGRE, L2TP, IPSec, DMVPN, L2VPN, L3VPN, VXLAN, EVPN
+- Security: ACLs, AAA, Port Security, Radius, TACACS+
+- Software-Defined Networking: Supermicro SDN, Cumulus Linux
+
+#### Distributed Systems & Storage:
+- Gluster, Minio, CEPH
+- NoSQL (Scylla, Redis, KeyDB), PostgreSQL, Zookeeper, Etcd
+- Apache Kafka, NSQ
+- Spark/Mesos
+
+
+Passionate about leveraging automation to streamline processes and drive efficiency across infrastructure and network operations.
+
 
 ## Professional experience:
 **08.2022 - present**  
 **Vay Technology GmbH**  
 Berlin, Germany  
-Senior SRE engineer  
+Senior Devops engineer / Principal DevOps Engineer / SRE / Tech lead
+Designed and deployed robust on-site and cloud-based core infrastructure aligned with stringent automotive reliability standards. 
+Leveraging automation to enhance support and monitoring processes, proactively addressing performance issues to ensure high availability and operational efficiency.
 Building a monitoring and alerting system.    
 Solving infrastructure performance problems.  
 Cloud infrastructure management (AWS)    
@@ -60,6 +63,7 @@ Cloud infrastructure management (AWS)
 **11.2020 - 08.2022**  
 **OZON.ru**  
 Saint Petersburg, Russia  
+Senior DevOps Engineer  
 Building and administration of large-scale Kubernetes clusters (1000+ baremetal servers).  
 Implementation IaC principles.  
 Maintenance of interaction with other teams.  
@@ -69,7 +73,7 @@ Cloud infrastructure management (Yandex cloud)
 **06.2019 - 11.2020**  
 **STC Ltd.**  
 Saint Petersburg, Russia  
-DevOps / Infrastructure engineer  
+Senior DevOps / Infrastructure engineer  
 Planning the architecture of the data center.  
 Automating Deployment and Operations of Kubernetes, Scylla and Ceph clusters.  
 Establishing interconnection between development and operations teams.  
@@ -78,7 +82,7 @@ Cloud infrastructure management (Selectel)
 **11.2014 - 05.2019**  
 **The General Radio Frequency Management Centre**  
 Khabarovsk, Russia  
-Senior network Engineer, Team lead  
+Network Engineer / Senior network Engineer / Team lead  
 Deploy Cisco routers and switches, and administer Network Monitoring services.  
 Responsible for network evaluations, troubleshooting a variety of network problems, and implementing various software and hardware upgrades.  
 Designed and deployed DMZ infrastructure.  
