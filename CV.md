@@ -6,100 +6,100 @@ E-mail: rusd@gmx.com
 
 ## DevOps/Infrastructure Engineer 
 
-Dynamic and accomplished professional with 10+ years of experience designing, deploying, and supporting robust server and network infrastructures. Certified engineer, with proven expertise in managing full project life cycles—from inception through documentation, procurement, deployment, and monitoring. Known for exceptional communication, bridging technical complexities with business requirements, and delivering on critical initiatives under pressure. Skilled in team collaboration and independent project management, with strong analytical and problem-solving abilities.
+Experienced and results-driven professional with 15+ years of designing, deploying, and supporting robust server and network infrastructures. Certified engineer with proven expertise in managing full project life cycles—from inception and documentation to procurement, deployment, and monitoring. Adept at bridging technical and business requirements, consistently delivering critical initiatives under pressure. Strong in both team collaboration and independent project management, with advanced analytical and problem-solving skills.
 
 
 ### Technical Skill set Summary
 
 #### Infrastructure as Code & Automation:
-- AWS, Cloud providers
-- Ansible, Terraform, QBEC, Jsonnet, IaC
-- Bash, Python, Golang
+- Cloud Platforms: AWS, Hetzner, Yandex, other cloud providers
+- Tools: Ansible, Terraform, QBEC, Jsonnet, IaC
+- Scripting & Programming: Bash, Python, Golang
 
 #### CI/CD & Containerization:
-- GitLab, Github CI/CD
-- Kubernetes, Docker, Containerd, CNI/Calico, CSI, Helm, NGINX
+- Tools: GitLab CI/CD, GitHub Actions
+- Platforms: Kubernetes, k3s, Docker, containerd, cri-o
+- Ecosystem: CNI (Calico, Cilium, etc), CSI, Helm, NGINX
 
 #### Operating Systems & Virtualization:
 - Performance optimization across diverse environments
-- In-depth knowledge of network subsytem and isolation mechanisms within Linux kernel
+- In-depth knowledge of network subsytem and isolation mechanisms within Linux kernel, ebpf, dpdk
 - Expertise with major Linux distributions (CentOS, RedHat, Ubuntu)
 - Main virtualization systems (VMware ESXi/VCenter, KVM, Ovirt, Proxmox)
 
 #### Monitoring & Observability:
-- Grafana, Prometheus, Thanos, VictoriaMetrics, Zabbix
+- Grafana, Prometheus, Thanos, VictoriaMetrics, Zabbix, Opentelemetry
 - ELK Stack, Opendistro, Fluentd, Loki
-- Tcpdump, WireShark, Netflow
+- Tempo, Jaeger
+- Tcpdump, WireShark, Netflow, sflow
 
 #### Networking & Security:
-- Extensive experience with Cisco, Juniper, Arista, Huawei, and Mikrotik equipment in company-wide and data center environments
+- Extensive experience with Cisco(ASR,ISR,C65,C72,ASA series), Juniper(MX,SRX,EX series), Arista, Huawei, and Mikrotik equipment in enterprise and data center environments
 - Routing: OSPF, FHRP, BGP, MP-BGP, Route Redistribution, PBR, NAT, VRF-Lite
 - Switching: VLAN, VTP, STP, EtherChannel, QoS, MPLS
 - VPN Technologies: GRE, mGRE, L2TP, IPSec, DMVPN, L2VPN, L3VPN, VXLAN, EVPN
 - Security: ACLs, AAA, Port Security, Radius, TACACS+
+- VoIP: CUCM, SIP, H.323 
 - Software-Defined Networking: Supermicro SDN, Cumulus Linux
 
 #### Distributed Systems & Storage:
-- Gluster, Minio, CEPH
-- NoSQL (Scylla, Redis, KeyDB), PostgreSQL, Zookeeper, Etcd
-- Apache Kafka, NSQ
-- Spark/Mesos
-
-
-Passionate about leveraging automation to streamline processes and drive efficiency across infrastructure and network operations.
+- Storage: GlusterFS, MinIO, Ceph, NVMe over TCP (NVMe-oF), Fibre Channel
+- Databases: PostgreSQL, ScyllaDB, Redis, KeyDB, Zookeeper, etcd, Clickhouse
+- Messaging: Apache Kafka, NSQ, NATS
+- Orchestration: Apache Mesos, Spark
 
 
 ## Professional experience:
 **08.2022 - present**  
 **Vay Technology GmbH**  
 Berlin, Germany  
-Senior Devops engineer / Principal DevOps Engineer / SRE / Tech lead
-Designed and deployed robust on-site and cloud-based core infrastructure aligned with stringent automotive reliability standards. 
-Leveraging automation to enhance support and monitoring processes, proactively addressing performance issues to ensure high availability and operational efficiency.
-Building a monitoring and alerting system.    
-Solving infrastructure performance problems.  
-Cloud infrastructure management (AWS)    
+Senior Devops engineer / Principal DevOps Engineer / SRE / Tech lead  
+Designed and deployed reliable on-site and cloud infrastructure to meet high automotive reliability standards  
+Led automation initiatives to improve support and monitoring systems  
+Built monitoring and alerting systems from scratch  
+Diagnosed and resolved infrastructure performance bottlenecks  
+Managed cloud infrastructure (AWS)   
 
 **11.2020 - 08.2022**  
 **OZON.ru**  
 Saint Petersburg, Russia  
 Senior DevOps Engineer  
-Building and administration of large-scale Kubernetes clusters (1000+ baremetal servers).  
-Implementation IaC principles.  
-Maintenance of interaction with other teams.  
-Planning the HA architecture across multiple data centers.  
-Cloud infrastructure management (Yandex cloud)
+Built and operated large-scale Kubernetes clusters (1000+ bare-metal nodes) serving the company's commercial workload    
+Implemented Infrastructure as Code principles across environments  
+Collaborated closely with other engineering teams to solve problems   
+Designed high-availability architecture across multiple data centers  
+Managed cloud infrastructure (Yandex Cloud)  
 
 **06.2019 - 11.2020**  
 **STC Ltd.**  
 Saint Petersburg, Russia  
 Senior DevOps / Infrastructure engineer  
-Planning the architecture of the data center.  
-Automating Deployment and Operations of Kubernetes, Scylla and Ceph clusters.  
-Establishing interconnection between development and operations teams.  
-Cloud infrastructure management (Selectel)
+Planned and built data center architecture  
+Automated deployment and operations for Kubernetes, Scylla, and Ceph clusters  
+Facilitated collaboration between development and operations  
+Managed cloud infrastructure (Selectel)  
 
 **11.2014 - 05.2019**  
 **The General Radio Frequency Management Centre**  
 Khabarovsk, Russia  
 Network Engineer / Senior network Engineer / Team lead  
-Deploy Cisco routers and switches, and administer Network Monitoring services.  
-Responsible for network evaluations, troubleshooting a variety of network problems, and implementing various software and hardware upgrades.  
-Designed and deployed DMZ infrastructure.  
-Design, planning and deployment Cisco VoIP system on CUCM cluster with integration to AD.  
+Deployed and maintained enterprise and backbone country-wide network
+Managed network monitoring infrastructure  
+Performed in-depth network troubleshooting and upgrades  
+Designed and implemented a DMZ infrastructure  
+Planned and deployed Cisco VoIP solution (CUCM) with Active Directory integration
 
 **10.2005 – 11.2014**  
 **Honda Motor Co. Ltd**  
 Khabarovsk, Russia  
 System Engineer  
-Providing first, second and third line support of IT hardware, software and infrastructure.  
-Monitoring network performance, protecting network data, management and optimization.  
-Configuring the networking devices (Cisco Router, switches)  
-Design the layout for cable and WLAN Installations.  
-Provide intranet VPN solution.  
-Troubleshooting, administration and support of Windows 2008, FreeBSD servers on DELL and HP hardware at all levels.  
-Manage and administer private clouds in Hyper-V and Vmware infrastructure.  
-
+Provided Tier 1–3 IT support for hardware, software, and infrastructure  
+Monitored and optimized network performance and data security  
+Configured Cisco routers and switches  
+Designed and implemented structured cabling and WLAN deployments  
+Deployed and maintained VPN solutions  
+Administered Windows Server 2008 and FreeBSD on Dell/HP hardware  
+Managed private cloud environments on Hyper-V and VMware platforms  
 
 ## Education
 
