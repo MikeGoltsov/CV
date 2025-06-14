@@ -19,7 +19,7 @@ Experienced and results-driven professional with 15+ years of designing, deployi
 #### CI/CD & Containerization:
 - Tools: GitLab CI/CD, GitHub Actions
 - Platforms: Kubernetes, k3s, Docker, containerd, cri-o
-- Ecosystem: CNI (Calico, Cilium, etc), CSI, Helm, NGINX
+- Ecosystem: CNI (Calico, Cilium, multus, etc), CSI, Helm, NGINX
 
 #### Operating Systems & Virtualization:
 - Performance optimization across diverse environments
@@ -83,7 +83,7 @@ Managed cloud infrastructure (Selectel)
 **The General Radio Frequency Management Centre**  
 Khabarovsk, Russia  
 Network Engineer / Senior network Engineer / Team lead  
-Deployed and maintained enterprise and backbone country-wide network
+Deployed and maintained enterprise country-wide network  
 Managed network monitoring infrastructure  
 Performed in-depth network troubleshooting and upgrades  
 Designed and implemented a DMZ infrastructure  
