@@ -22,23 +22,18 @@ Interested in advancing towards next-generation data center networking (SRv6, pr
 
 ## Core Technologies
 
-**Cloud & IaC:** AWS, Hetzner, Yandex Cloud, Terraform, Ansible, Jsonnet/QBEC · Bash, Python, Go
-
-**Containers & Platform:** Kubernetes, k3s · Docker, containerd, cri-o · Helm · CNI (Calico, Cilium, Multus), CSI · NGINX ingress
-
-**CI/CD:** GitLab CI/CD, GitHub Actions, CircleCI
-
-**Observability:** Prometheus, VictoriaMetrics/Logs, Thanos · Grafana, Loki, ELK/OpenSearch, Vector · Tempo, Jaeger, OpenTelemetry · Zabbix
-
-**Linux & Virtualization:** Linux internals — namespaces/cgroups, isolation, eBPF, perf · CentOS/RHEL, Ubuntu · KVM, Proxmox, VMware ESXi/vCenter, oVirt
-
-**Networking & Kernel — end to end, from fabric to pod:**
-- **Linux network stack (deep):** Linux networking subsystem, NIC tuning (queues, RSS/RPS, IRQ affinity), interrupt handling, eBPF/XDP
-- **Kubernetes networking:** CNI internals (Calico, Cilium, Multus), pod/service routing, network policy, ingress
-- **Fabric integration:** BGP route exchange between nodes and a CLOS spine-leaf fabric, VXLAN/EVPN overlays, SDN (Cumulus Linux)
-- **Routing & switching (8+ yrs enterprise/DC):** BGP/MP-BGP, OSPF, ISIS, MPLS, VRF · Cisco, Juniper, Arista, Mikrotik · VPN: IPSec, DMVPN, L2VPN/L3VPN
-
-**Data & Messaging:** PostgreSQL, ClickHouse, ScyllaDB, Redis/KeyDB · etcd, ZooKeeper · Kafka, NATS, NSQ · Ceph, MinIO, GlusterFS, NVMe-oF
+**Cloud & IaC:** AWS, Hetzner, Yandex Cloud, Terraform, Ansible, Jsonnet/QBEC  
+**Automation & tooling:** Bash, Python, Go  
+**Containers & Platform:** Kubernetes, k3s · Docker, containerd, cri-o · Helm · CNI (Calico, Cilium, Multus), CSI · NGINX ingress  
+**CI/CD:** GitLab CI/CD, GitHub Actions, CircleCI  
+**Observability:** Prometheus, VictoriaMetrics/Logs, Thanos · Grafana, Loki, ELK/OpenSearch, Vector · Tempo, Jaeger, OpenTelemetry · Zabbix  
+**Linux & Virtualization:** Linux internals — namespaces/cgroups, isolation, eBPF, perf · CentOS/RHEL, Ubuntu · KVM, Proxmox, VMware ESXi/vCenter, oVirt  
+**Networking & Kernel — end to end, from fabric to pod:**  
+- **Linux network stack (deep):** Linux networking subsystem, NIC tuning (queues, RSS/RPS, IRQ affinity), interrupt handling, eBPF/XDP  
+- **Kubernetes networking:** CNI internals (Calico, Cilium, Multus), pod/service routing, network policy, ingress  
+- **Fabric integration:** BGP route exchange between nodes and a CLOS spine-leaf fabric, VXLAN/EVPN overlays, SDN (Cumulus Linux)  
+- **Routing & switching (8+ yrs enterprise/DC):** BGP/MP-BGP, OSPF, ISIS, MPLS, VRF · Cisco, Juniper, Arista, Mikrotik · VPN: IPSec, DMVPN, L2VPN/L3VPN  
+**Data & Messaging:** PostgreSQL, ClickHouse, ScyllaDB, Redis/KeyDB · etcd, ZooKeeper · Kafka, NATS, NSQ · Ceph, MinIO, GlusterFS, NVMe-oF  
 
 ## Professional Experience
 
@@ -49,7 +44,9 @@ Interested in advancing towards next-generation data center networking (SRv6, pr
 - Drove company-wide adoption of Infrastructure as Code, achieving fully reproducible infrastructure and cutting disaster-recovery deployment time by ~60%
 - Migrated infrastructure services into Kubernetes, improving operability and reducing cloud/CI costs by ~30%
 - Built an observability platform from scratch (VictoriaMetrics, Grafana, Loki, Alertmanager), delivering metrics, logging, and alerting across the fleet and backend services, improving incident detection and response time
-- Led migration of SSH access management from FreeIPA to HashiCorp Vault with OIDC/Google Workspace integration, managed as code via Terraform — role-based access split across production and staging environments
+- Owned a fleet of ~600 business-critical Peplink SD-WAN routers providing vehicle connectivity, covering configuration, troubleshooting, and lifecycle operations
+- Built and maintained an internal provisioning/configuration service (Python prototype later rewritten in Go) that automated router onboarding and configuration via the vendor API, including modem, tunnel, and system setup
+- Modernized SSH access management by migrating from FreeIPA to Vault-based OIDC/Google Workspace auth, codifying role-based access in Terraform and separating production/staging permissions
 - Owned AWS infrastructure (VPC, IPv6, Security Groups, networking), diagnosing and resolving performance bottlenecks and hardening access controls
 - Acted as technical lead for infrastructure and platform decisions
 
