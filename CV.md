@@ -6,9 +6,9 @@ E-mail: mike.goltsov@gmail.com
 
 ## DevOps / Infrastructure / Platform Engineer · SRE
 
-Infrastructure engineer with 15+ years designing, building, and operating reliable server, cloud, and network infrastructure — the last 6+ years focused on DevOps/SRE and platform engineering. 
-Strong across the full lifecycle: architecture, Infrastructure as Code, CI/CD, observability, and incident response. 
-Hands-on experience operating bare-metal Kubernetes clusters (1000+ nodes) and integrating them with data center networking (BGP, EVPN/VXLAN), combined with background in Linux kernel-level performance tuning.
+Infrastructure engineer with 15+ years designing, building, and operating reliable server, cloud, and network infrastructure — the last 6+ years focused on DevOps/SRE and platform engineering.   
+Strong across the full lifecycle: architecture, Infrastructure as Code, CI/CD, observability, and incident response.  
+Hands-on experience operating bare-metal Kubernetes clusters (1000+ nodes) and integrating them with data center networking (BGP, EVPN/VXLAN), combined with background in Linux kernel-level performance tuning.  
 Interested in advancing towards next-generation data center networking (SRv6, programmable data planes) and HPC-oriented workloads, building on existing experience with GPU-enabled Kubernetes environments.
 
 ### Key Strengths
@@ -40,7 +40,7 @@ Interested in advancing towards next-generation data center networking (SRv6, pr
 **Linux & Virtualization:** Linux internals — namespaces/cgroups, isolation, eBPF, perf · CentOS/RHEL, Ubuntu · KVM, Proxmox, VMware ESXi/vCenter, oVirt  
 
 **Networking & Kernel — end to end, from fabric to pod:**  
-- **Linux network stack (deep):** Linux networking subsystem, NIC tuning (queues, RSS/RPS, IRQ affinity), interrupt handling, eBPF/XDP  
+- **Linux network stack:** Linux networking subsystem, NIC tuning (queues, RSS/RPS, IRQ affinity), interrupt handling, eBPF/XDP  
 - **Kubernetes networking:** CNI internals (Calico, Cilium, Multus), pod/service routing, network policy, ingress  
 - **Fabric integration:** BGP route exchange between nodes and a CLOS spine-leaf fabric, VXLAN/EVPN overlays, SDN (Cumulus Linux)  
 - **Routing & switching (8+ yrs enterprise/DC):** BGP/MP-BGP, OSPF, ISIS, MPLS, VRF · Cisco, Juniper, Arista, Mikrotik · VPN: IPSec, DMVPN, L2VPN/L3VPN  
@@ -49,7 +49,7 @@ Interested in advancing towards next-generation data center networking (SRv6, pr
 
 ## Professional Experience
 
-**Vay Technology GmbH** — Berlin, Germany
+**Vay Technology GmbH** — Berlin, Germany  
 *Senior / Principal DevOps Engineer · SRE · Tech Lead* · 08.2022 – present
 
 - Design and operate reliable on-site and multi-region AWS infrastructure across a fleet of 300+ physical hosts, sustaining a 99.9% SLA under high automotive reliability standards
@@ -62,7 +62,7 @@ Interested in advancing towards next-generation data center networking (SRv6, pr
 - Owned AWS infrastructure (VPC, IPv6, Security Groups, networking), diagnosing and resolving performance bottlenecks and hardening access controls
 - Acted as technical lead for infrastructure and platform decisions
 
-**OZON.ru** — Saint Petersburg, Russia
+**OZON.ru** — Saint Petersburg, Russia  
 *Senior DevOps Engineer* · 11.2020 – 08.2022
 
 - Owned lifecycle of large-scale bare-metal Kubernetes clusters (1000+ nodes across 3 data centers) serving the company's commercial workload
@@ -73,7 +73,7 @@ Interested in advancing towards next-generation data center networking (SRv6, pr
 - Deployed GPU-enabled Kubernetes clusters for test/ML workloads
 - Applied Infrastructure as Code across environments; managed cloud infrastructure (Yandex Cloud) and partnered with engineering teams on platform-wide issues
 
-**STC Ltd.** — Saint Petersburg, Russia
+**STC Ltd.** — Saint Petersburg, Russia  
 *Network Engineer → Senior DevOps / Infrastructure Engineer* · 06.2019 – 11.2020
 
 - Designed and built a data center from the ground up — hardware selection and procurement, network and cluster architecture, deployment, and customer handover/training
@@ -81,7 +81,7 @@ Interested in advancing towards next-generation data center networking (SRv6, pr
 - Managed cloud infrastructure (Selectel) and facilitated dev/ops collaboration
 - Worked across compute and network layers, bridging traditional networking and platform engineering
 
-**General Radio Frequency Management Centre** — Khabarovsk, Russia
+**General Radio Frequency Management Centre** — Khabarovsk, Russia  
 *Network Engineer → Senior Network Engineer → Team Lead* · 11.2014 – 05.2019
 
 - Deployed and maintained a country-wide enterprise network and its monitoring infrastructure
@@ -89,7 +89,7 @@ Interested in advancing towards next-generation data center networking (SRv6, pr
 - Performed in-depth network troubleshooting and upgrades 
 - Planned and deployed Cisco VoIP solution (CUCM) with Active Directory integration
 
-**Honda Motor Co. Ltd** — Khabarovsk, Russia
+**Honda Motor Co. Ltd** — Khabarovsk, Russia  
 *System Engineer* · 10.2005 – 11.2014
 
 - Provided full-stack infrastructure support (systems, networking, virtualization)
