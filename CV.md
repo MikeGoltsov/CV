@@ -17,9 +17,8 @@ Interested in advancing towards next-generation data center networking (SRv6, pr
 **Deep networking expertise:** Linux network stack (eBPF, IRQ/RSS tuning, packet flow), CNI internals, and DC fabric integration  
 **Kubernetes ↔ network integration:** BGP-based routing, service/pod traffic flow, latency and packet path optimization  
 **Performance engineering:** latency reduction, bottleneck analysis, efficient resource utilization  
-**End-to-end ownership:** from physical infrastructure and routing to platform and cloud layers
+**End-to-end ownership:** from physical infrastructure and routing to platform and cloud layers  
 **Infrastructure as Code:** reproducibility, disaster recovery, and cost control  
-
 
 ## Core Technologies
 
