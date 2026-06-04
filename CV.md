@@ -38,6 +38,7 @@ Interested in advancing towards next-generation data center networking (SRv6, pr
 - **Kubernetes networking:** CNI internals (Calico, Cilium, Multus), pod/service routing, network policy, ingress
 - **Fabric integration:** BGP route exchange between nodes and a CLOS spine-leaf fabric, VXLAN/EVPN overlays, SDN (Cumulus Linux)
 - **Routing & switching (8+ yrs enterprise/DC):** BGP/MP-BGP, OSPF, ISIS, MPLS, VRF · Cisco, Juniper, Arista, Mikrotik · VPN: IPSec, DMVPN, L2VPN/L3VPN
+
 **Data & Messaging:** PostgreSQL, ClickHouse, ScyllaDB, Redis/KeyDB · etcd, ZooKeeper · Kafka, NATS, NSQ · Ceph, MinIO, GlusterFS, NVMe-oF
 
 ## Professional Experience
