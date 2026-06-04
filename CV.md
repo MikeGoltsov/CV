@@ -23,16 +23,23 @@ Interested in advancing towards next-generation data center networking (SRv6, pr
 ## Core Technologies
 
 **Cloud & IaC:** AWS, Hetzner, Yandex Cloud, Terraform, Ansible, Jsonnet/QBEC  
+
 **Automation & tooling:** Bash, Python, Go  
+
 **Containers & Platform:** Kubernetes, k3s · Docker, containerd, cri-o · Helm · CNI (Calico, Cilium, Multus), CSI · NGINX ingress  
+
 **CI/CD:** GitLab CI/CD, GitHub Actions, CircleCI  
+
 **Observability:** Prometheus, VictoriaMetrics/Logs, Thanos · Grafana, Loki, ELK/OpenSearch, Vector · Tempo, Jaeger, OpenTelemetry · Zabbix  
+
 **Linux & Virtualization:** Linux internals — namespaces/cgroups, isolation, eBPF, perf · CentOS/RHEL, Ubuntu · KVM, Proxmox, VMware ESXi/vCenter, oVirt  
+
 **Networking & Kernel — end to end, from fabric to pod:**  
 - **Linux network stack (deep):** Linux networking subsystem, NIC tuning (queues, RSS/RPS, IRQ affinity), interrupt handling, eBPF/XDP  
 - **Kubernetes networking:** CNI internals (Calico, Cilium, Multus), pod/service routing, network policy, ingress  
 - **Fabric integration:** BGP route exchange between nodes and a CLOS spine-leaf fabric, VXLAN/EVPN overlays, SDN (Cumulus Linux)  
 - **Routing & switching (8+ yrs enterprise/DC):** BGP/MP-BGP, OSPF, ISIS, MPLS, VRF · Cisco, Juniper, Arista, Mikrotik · VPN: IPSec, DMVPN, L2VPN/L3VPN  
+
 **Data & Messaging:** PostgreSQL, ClickHouse, ScyllaDB, Redis/KeyDB · etcd, ZooKeeper · Kafka, NATS, NSQ · Ceph, MinIO, GlusterFS, NVMe-oF  
 
 ## Professional Experience
